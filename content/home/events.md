@@ -1,45 +1,34 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: features
+widget: blank
 
 # This file represents a page section.
 headless: true
-
 # Order that this section appears on the page.
 weight: 90
 
-title: 'Events'
-subtitle:
+title: 'Forthcoming Events'
 
-feature:
-  - description: 1. FASE 2024
-                
-                 2. FMTea 2023
-                 
-                 3. FSEN 2023
-                 
-                 4. ABZ 2023
-                 
-    #icon: 
-    #icon_pack: custom
-    name: Forthcoming events
-  - description: 1. QUATIC 2022
-                 2. TAP22
-                 3. iFM2022
-                 4. FME Teaching Committee's tutorial series
-                 5. FMTea21
-                 6. Tutorials co-chair FM'21
-                 7. Training school on Machine Learning for Advanced Control techniques
-    #icon: 
-    #icon_pack: custom
-    name: Past Events
-design:
-  # Choose a view for the listings:
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view: 1
 
 ---
+- FASE 2024 
+- [FMTea 2023](https://fmtea.github.io/): Formal Methods Teaching Workshop: Event affiliated with FM 2023, 25th International Symposium on Formal Methods
+Invited speaker: Event affiliated with FM 2023, 25th International Symposium on Formal Methods
+Registration: Event affiliated with FM 2023, 25th International Symposium on Formal Methods
+[Preliminary Program](https://docs.google.com/document/d/12Ry8_XkyTO88FwWhqKoKf_sCMUP1fm2sqnd_T42RZck/edit)
+
+- [FSEN 2023](http://fsen.ir/2023/): 10th IPM International Conference on
+Fundamentals of Software Engineering
+(FSEN 2023)
+3 - 5 May, 2023
+Tehran, Iran
+- [ABZ 2023](https://abz-conf.org/2023/): Date:
+May 30, 2023 — Jun 2, 2023, 
+Event:
+[9th International Conference on Rigorous State-Based Methods](https://abz2023.loria.fr/), 
+Location:
+Nancy, France
+
+[Past Events](pastevents)
+  

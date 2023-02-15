@@ -18,12 +18,11 @@ main:
     url: '#publications'
     weight: 30
   - name: Scientific Activities
-    url: 'scientificactivities/'
-    id: activites
-    weight: 50
+    url: '#scientificactivities'
+    weight: 60
   - name: Teaching Life
     url: '#teachinglife'
-    weight: 60
+    weight: 50
   - name: Contact
     url: '#contact'
     weight: 70

@@ -6,7 +6,7 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 130
+weight: 160
 
 title: Contact
 subtitle:
@@ -25,9 +25,9 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: luigi.petre@abo.fi
+  email: luigia.petre@abo.fi
   address:
-    street: Domkyrkotorget 3
+    street: Vesilinnantie 5
     city: Turku
     postcode: '20500'
     country: Finland
